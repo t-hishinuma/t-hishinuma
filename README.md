@@ -1,5 +1,5 @@
-# Toshiaki Hishinuma [![Github](https://img.shields.io/github/followers/t-hishinuma?label=Follow&style=social)](https://github.com/t-hishinuma)
-## Open Source HPC Software Developper
+# Toshiaki Hishinuma; Open Source HPC Software Developper
+[![Github](https://img.shields.io/github/followers/t-hishinuma?label=Follow&style=social)](https://github.com/t-hishinuma)
 
 I'm looking for [GitHub sponsors](https://github.com/sponsors/t-hishinuma).
 
