@@ -1,6 +1,6 @@
 # Toshiaki Hishinuma [![Github](https://img.shields.io/github/followers/t-hishinuma?label=Follow&style=social)](https://github.com/t-hishinuma)
 
-Open Source HPC Software Developer.
+HPC numa
 
 <p align="left"> 
   <a href="https://github.com/t-hishinuma/t-hishinuma/">
